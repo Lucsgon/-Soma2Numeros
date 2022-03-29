@@ -1,2 +1,2 @@
-# -Soma2Numeros
+# exercicio-Soma2Numeros
 atividade
